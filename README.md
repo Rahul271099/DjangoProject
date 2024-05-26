@@ -1,6 +1,6 @@
-sample admin login details:
-username: admin
-password: admin123
+sample admin login details:	
+username: admin	
+password: admin123	
 
 Routes Description:
 authentication:
